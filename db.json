@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 55.99,
+      "stock": 120,
+      "brand": "Logitech",
+      "rating": 4.5,
+      "image": "https://i.ibb.co/3sK1zYp/mouse.png",
+      "description": "Ergonomic wireless mouse with smooth tracking and long battery life."
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 45.50,
+      "stock": 80,
+      "brand": "Redragon",
+      "rating": 4.7,
+      "image": "https://i.ibb.co/ZYW3VTp/keyboard.png",
+      "description": "RGB mechanical keyboard with blue switches for tactile feedback."
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Fashion",
+      "price": 60.00,
+      "stock": 60,
+      "brand": "Nike",
+      "rating": 4.6,
+      "image": "https://i.ibb.co/0jqHpnp/shoes.png",
+      "description": "Lightweight and comfortable running shoes for daily workouts."
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 75.99,
+      "stock": 45,
+      "brand": "Samsung",
+      "rating": 4.4,
+      "image": "https://i.ibb.co/2nL1X0K/watch.png",
+      "description": "Feature-rich smartwatch with fitness tracking and notifications."
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 25.00,
+      "stock": 100,
+      "brand": "American Tourister",
+      "rating": 4.3,
+      "image": "https://i.ibb.co/9yG3wKX/backpack.png",
+      "description": "Durable backpack with multiple compartments for everyday use."
+    }
+  ]
+}

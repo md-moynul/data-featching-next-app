@@ -55,5 +55,116 @@
       "image": "https://i.ibb.co/9yG3wKX/backpack.png",
       "description": "Durable backpack with multiple compartments for everyday use."
     }
+  ],"books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self Development",
+      "price": 12.99,
+      "rating": 4.8,
+      "stock": 25,
+      "image": "https://covers.openlibrary.org/b/id/10594765-L.jpg",
+      "description": "A practical guide to building good habits and breaking bad ones."
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 10.50,
+      "rating": 4.7,
+      "stock": 30,
+      "image": "https://covers.openlibrary.org/b/id/8231856-L.jpg",
+      "description": "A journey of a young shepherd in search of treasure and purpose."
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "category": "Finance",
+      "price": 11.99,
+      "rating": 4.6,
+      "stock": 20,
+      "image": "https://covers.openlibrary.org/b/id/8091016-L.jpg",
+      "description": "Lessons on money, investing, and financial independence."
+    },
+    {
+      "id": 4,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "category": "Motivation",
+      "price": 9.99,
+      "rating": 4.5,
+      "stock": 15,
+      "image": "https://covers.openlibrary.org/b/id/8225261-L.jpg",
+      "description": "Classic book on success principles and mindset."
+    },
+    {
+      "id": 5,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 13.49,
+      "rating": 4.7,
+      "stock": 18,
+      "image": "https://covers.openlibrary.org/b/id/9251996-L.jpg",
+      "description": "Focus rules for achieving success in a distracted world."
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "category": "Fantasy",
+      "price": 14.99,
+      "rating": 4.9,
+      "stock": 40,
+      "image": "https://covers.openlibrary.org/b/id/7984916-L.jpg",
+      "description": "A young wizard's journey begins at Hogwarts."
+    },
+    {
+      "id": 7,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 12.00,
+      "rating": 4.8,
+      "stock": 22,
+      "image": "https://covers.openlibrary.org/b/id/10521270-L.jpg",
+      "description": "Understanding how people think about money."
+    },
+    {
+      "id": 8,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 25.00,
+      "rating": 4.9,
+      "stock": 10,
+      "image": "https://covers.openlibrary.org/b/id/9641981-L.jpg",
+      "description": "A handbook of agile software craftsmanship."
+    },
+    {
+      "id": 9,
+      "title": "You Don’t Know JS",
+      "author": "Kyle Simpson",
+      "category": "Programming",
+      "price": 18.00,
+      "rating": 4.7,
+      "stock": 12,
+      "image": "https://covers.openlibrary.org/b/id/8097442-L.jpg",
+      "description": "Deep dive into JavaScript core mechanisms."
+    },
+    {
+      "id": 10,
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "category": "Self Development",
+      "price": 15.99,
+      "rating": 4.8,
+      "stock": 28,
+      "image": "https://covers.openlibrary.org/b/id/8235116-L.jpg",
+      "description": "Powerful lessons in personal change and leadership."
+    }
   ]
 }

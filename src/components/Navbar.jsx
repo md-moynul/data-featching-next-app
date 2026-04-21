@@ -4,6 +4,7 @@ const Navbar = () => {
     const links = <>
         <li><Link href={'/'}>Home</Link></li>
         <li><Link href={'/post'}>Posts</Link></li>
+        <li><Link href={'/product'}>Product</Link></li>
     </>
     return (
         <div className="navbar bg-base-100 shadow-sm">
